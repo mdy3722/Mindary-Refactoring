@@ -45,17 +45,6 @@
 
 ---
 
-## 🗂️ 프로젝트 구조
-
-```bash
-Mindary-Refactoring/
-├── FRONTEND-refactor/
-│   └── ... (React 코드)
-├── BACKEND-refactor/
-│   └── ... (Django REST API 코드)
-└── README.md
-
----
 
 ## 🧑‍💻 팀원 소개
 
@@ -71,3 +60,15 @@ Mindary-Refactoring/
 ## 🖼️ 데모 이미지
 ![image](https://github.com/user-attachments/assets/bc18958b-de46-46a0-a229-3ecea5a401ac)
 ![image](https://github.com/user-attachments/assets/854e3c17-ecc6-41eb-9feb-1040281fcbe7)
+
+---
+
+## 🗂️ 프로젝트 구조
+
+```bash
+Mindary-Refactoring/
+├── FRONTEND-refactor/
+│   └── ... (React 코드)
+├── BACKEND-refactor/
+│   └── ... (Django REST API 코드)
+└── README.md
